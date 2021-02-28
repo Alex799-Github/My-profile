@@ -1,0 +1,133 @@
+
+
+	margin : 2em 7em 2em 7em ;
+	background-color: #DCDCDC;
+}
+
+#page{
+	display: flex;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	background-color: #FFFFFF;
+}
+
+#col1{
+	width: 25%;
+	margin-right: 1em;
+	padding: 0em 2em 2em 2em;
+}
+
+#col2{
+	width: 75%;
+	padding: 2em 2em 2em 0em;
+}
+
+h2{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	background-color: #2E74B5;
+	color: white;
+	text-align: center;
+}
+
+#info{
+	background-color: #DCDCDC;
+	padding: 1em 1em 1em 1em;
+
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+	max-width: 80%;
+	height: auto;
+
+}
+ul, ol{
+	list-style-type:none;
+	padding-left: 0px;
+}
+
+#coordonees{
+text-align: center;
+
+}
+
+#petitNom{
+	font-weight: bold;
+	padding-top: 1em;
+	text-align: center;
+
+}
+#email, #numero{
+	padding-top: 1em;
+}
+.titreComp{
+	display:block;
+	padding-bottom: 1em;
+}
+table{
+	width: 100%;
+
+}
+tr{
+	font-size: 0.8em;
+}
+progress {
+	width: 8em;
+ 	float: right;
+ 	height: 1.4em;
+}
+#Titre{
+	text-align: center;
+
+}
+#Name{
+	font-size: 2.4em;
+	color: #2E74B5;
+	-webkit-margin-before: 0em;
+    -webkit-margin-after: 0em;
+}
+.stages{
+	font-weight: bold;
+	font-size: 1.4em;
+	display:inline;
+
+}
+.dates{
+	display:inline;
+	float: right;
+}
+.entreprises{
+	font-size: 1.4em;
+	color: #2E74B5;
+}
+#poste{
+	color: #808080;
+	font-size: 1.8em;
+}
+
+.description{
+	padding-bottom: 1em;
+	text-align: justify;
+}
+.TitreProjets{
+	font-size: 1.4em;
+}
+#Contact
+{
+	background-color: #FFFFFF;
+	margin-right: 8em;
+	margin-left: 8em;
+}
+#MessageContact{
+	margin-left:20%;
+	margin-right:20%;
+	padding-bottom: 1em;
+
+}
+#NomContact{
+
+	width:48%;
+	float:left;
+	font-size: 1.2em;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
